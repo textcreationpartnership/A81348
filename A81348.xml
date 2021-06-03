@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter sent from Col. John Disbrowe, dated December 29. 1659. Superscribed, to the Right Honorable, the Speaker of the Parliament of this Common-wealth, these present, at Westminster. Read in Parliament, December 30. 1659.</title>
+            <author>Desborough, John, 1608-1680.</author>
+         </titleStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81348</idno><idno type="EEBO-CITATION">99866988</idno>
+  <idno type="VID">119278</idno>
+  <idno type="EEBO-PROQUEST">2240930005</idno>
+  
+            <idno type="STC">Wing D1128</idno>
+            <idno type="STC">Thomason E1011_5</idno>
+            <idno type="STC">ESTC R207974</idno>
+            <idno type="PROQUEST">99866988</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866988e"/>
+            <note>(EEBO-TCP ; phase 2, no. A81348)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119278)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 150:E1011[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter sent from Col. John Disbrowe, dated December 29. 1659. Superscribed, to the Right Honorable, the Speaker of the Parliament of this Common-wealth, these present, at Westminster. Read in Parliament, December 30. 1659.</title>
+                  <author>Desborough, John, 1608-1680.</author>
+               </titleStmt>
+               <extent>6, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Streater, and John Macock,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The last leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "xber. [i.e. December] 31.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119278:1"/>
+            <p>
+               <hi>A LETTER Sent from Col. John Disbrowe,</hi> Dated <hi>December 29. 1659.</hi>
+            </p>
+            <p>
+               <hi>Superscribed,</hi> To the Right Honorable, the Speaker of the Parliament of this Common-wealth, These Present, at <hi>Westminster.</hi>
+            </p>
+            <p>Read in Parliament, <hi>December 30. 1659.</hi>
+            </p>
+            <p>LONDON, <hi>Printed by</hi> John Streater, <hi>and</hi> John Macock, <hi>1659.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:119278:2"/>
+            <pb n="3" facs="tcp:119278:2"/>
+            <head>
+               <hi>A LETTER Sent from Colonel</hi> John Disbrowe, <hi>Superscribed,</hi> To the Right Honorable, the Speak<g ref="char:EOLhyphen"/>er of the Parliament of this Com<g ref="char:EOLhyphen"/>mon-wealth, These Present, at <hi>Westminster.</hi>
+            </head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>IT having pleased God (I hope out of good will to these (of late distracted) Nations) to bring the Parliament again to the
+<pb n="4" facs="tcp:119278:3"/>Exercise of Their Trust, in the Government of these Nations, I thought it my Duty to Acquaint You, That I cheerfully, and with much quietness of mind, acquiesce in the Providence of God there<g ref="char:EOLhyphen"/>in: And that I may take away all occasions of Jealousies of me, I shal be ready to give the Parliament any possible Assurance of my cor<g ref="char:EOLhyphen"/>dial and faithful Submission to Their Authority: And if I had any hand in Their late Interrup<g ref="char:EOLhyphen"/>tion, I shall beg pardon for it of the Lord: I am sure I have no self-ends, or evil purposes in any thing wherein I have appeared. <hi>Sir,</hi> The Work of the Parlia<g ref="char:EOLhyphen"/>ment
+<pb n="5" facs="tcp:119278:3"/>is Great and Difficult, the Lord give You Strength and Wisedom proportionable there<g ref="char:EOLhyphen"/>unto, that such a Foundation of Settlement may be laid by You, as the Children yet unborn may have cause to Bless God for. I shall not give You farther trou<g ref="char:EOLhyphen"/>ble, only assure You, That not<g ref="char:EOLhyphen"/>withstanding the late unhappy dif<g ref="char:EOLhyphen"/>ferences, I shall in any capacity approve my self faithful to the Peace of the Common-wealth, and observant of the Commands of the Parliament; and I hope upon Inquiry into the late Dire<g ref="char:EOLhyphen"/>ctions I gave the Officers of the Regiment (lately mine) You will
+<pb n="6" facs="tcp:119278:4"/>find me of this temper. I will on<g ref="char:EOLhyphen"/>ly add, That if ever hereafter there should be Occasion, none shall more cordially oppose the Com<g ref="char:EOLhyphen"/>mon-wealth's Enemies, then,</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Decemb.</hi> 29. 1659.</date>
+               </dateline>
+               <salute>Right Honorable,</salute>
+               <signed>Your very Humble Servant, John Disbrowe. Superscribed, <hi>To the Right Honorable, the Speaker of the Parliament of this Common-wealth, These Present, At</hi> Westminster.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
